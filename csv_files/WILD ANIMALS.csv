@@ -1,0 +1,12 @@
+Sanctuary Identification,Type,Vaccinated,Reason for admission,Date of Arrival,Date of Departure,Destination ,Destination Address
+WA223456,Fox,Yes,Car Accident,04/08/2019,30/09/2019,Released in the wild,
+WA334567,Lion,Yes,Abandoned in closed Zoo,03/07/2019,11/10/2019,Edinburgh Zoo,"New Heaven Golden Walk, EH15 6TY"
+WA333333,Fox,Yes,Car Accident,10/09/2019,19/10/2019,Released in the wild,
+WA112233,Fox,Yes,Car Accident,10/09/2019,,,
+WA221144,Fox,Yes,Abused,11/09/2019,19/10/2019,Released in the wild,
+WA102354,Fox,Yes,Abused,11/09/2019,19/10/2019,Released in the wild,
+WA107564,Fox,Yes,Abandoned in closed Zoo,11/10/2019,19/10/2019,Chester Zoo,"Chetser Zoo, Riverland, CH12 9ET"
+WA221155,Badger,Yes,Abused,14/10/2019,,,
+WA222366,Badger,,Car Accident,15/10/2019,,,
+WA101023,Badger,,Car Accident,15/10/2019,19/10/2019,Died,
+WA101123,Tiger,Yes,Abandoned in closed Zoo,18/10/2019,,Chester Zoo,"Chetser Zoo, Riverland, CH12 9ET"

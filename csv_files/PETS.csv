@@ -1,0 +1,32 @@
+Sanctuary Identification,Type,Breed,Vaccinated,Neutered,Microchip Number,Reason for admission,Date of Arrival,Date of Departure,Destination ,Destination Address
+P11456,Cat,Persian,Yes,Yes,D234567,Lost,11/09/2019,11/10/2019,return to owner,"333 New Lane, SE14 6RT"
+P12467,Cat,Ancora,Yes,,D123456,Lost,14/09/2019,30/09/2019,return to owner,"290 Oak Avenue, BS79 8TR"
+P22345,Dog,Beagle,Yes,,D228796,Car Accident,20/09/2019,,,
+P37867,Parrot,Blue Amazon,Yes,,,Abandoned,20/09/2019,,,
+P10111,Cat,Siamese,Yes,,D314567,Car Accident,20/09/2019,,,
+P11900,Cat,Siamese,Yes,,D412345,Abused,22/09/2019,,,
+P22222,Dog,Maltese,Yes,,D123564,Abused,22/09/2019,,,
+P22023,Dog,Dachshund,Yes,,D142398,Abused,23/09/2019,,,
+P33798,Canary,Red Factor ,Yes,,,Lost,24/09/2019,,,
+P31222,Dog,Alsatian,Yes,,D220956,Lost,24/09/2019,10/10/2019,return to owner,"25 Newtown Road, NT56 6YU"
+P23408,Dog,Bulldog,Yes,,D231932,Lost,25/09/2019,,,
+P23410,Cat,Manx,Yes,,D339857,Abused,25/09/2019,,,
+P23432,Cat,Manx,Yes,Yes,D419876,Lost,25/09/2019,,,
+P23543,Cat,Moggie,Yes,,D192357,Lost,26/09/2019,,,
+P23544,Parrot,Grey-headed lovebird,Yes,,,Abandoned,26/09/2019,17/10/2019,Adopted,"1485 Great Avenue, SE1 1NX"
+P24112,Parrot,Grey-headed lovebird,Yes,,,Abandoned,26/09/2019,17/10/2019,Adopted,"1485 Great Avenue, SE1 1NX"
+P24117,Dog,Bulldog,Yes,Yes,D121323,Abandoned,26/09/2019,,,
+P24119,Cat,Himalayan,Yes,,D189875,Lost,26/09/2019,17/10/2019,return to owner,"43 Glynt Lane, CF76 5TR"
+P24123,Cat,Burmese,Yes,Yes,D445445,Lost,27/09/2019,,,
+P24137,Cat,Havana Brown,Yes,,D111111,Abused,27/09/2019,,,
+P24142,Dog,Bulldog,Yes,Yes,D223311,Abused,28/09/2019,,,
+P25311,Dog,Dachshund,Yes,,D221133,Lost,28/09/2019,12/10/2019,return to owner,"23 Lonely Court, BS1 1TY"
+P25332,Dog,Cocker Spaniel,Yes,,D222444,Lost,28/09/2019,,,
+P25397,Canary,Harz Roller,Yes,,,Lost,28/09/2019,,,
+P25412,Cat,Ragdoll,Yes,Yes,D101033,Lost,28/09/2019,12/10/2019,return to owner,"29 Lonely Court, BS1 1TY"
+P25427,Dog,Dachshund,Yes,,D112233,Abused,28/09/2019,,,
+P25563,Dog,Springer Spaniel,Yes,,D335544,Car Accident,29/09/2019,,,
+P25587,Cat,Ragdoll,Yes,Yes,D111199,Stray,29/09/2019,17/10/2019,Adopted,"33 Lonely Court, BS1 1TY"
+P25599,Cat,Ragdoll,Yes,Yes,D101010,Stray,29/09/2019,,,
+P25634,Cat,Ragdoll,Yes,Yes,D222111,Stray,29/09/2019,,,
+P98765,Dog,Husky,Yes,,,Accident,05-02-2019,,,
